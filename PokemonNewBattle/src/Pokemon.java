@@ -17,6 +17,7 @@ public class Pokemon
 		private int healthPoint;
 		private int attackPoint;
 		private int defencePoint;
+		//hahahaha
 		
 		public Pokemon(String na, int nu, String t, String s1, int s1p, String s2, int s2p, String s3, int s3p, String s4, int s4p, int l, int ex, int hp, int ap, int dp )
 		{
